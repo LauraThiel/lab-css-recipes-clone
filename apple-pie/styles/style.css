@@ -1,0 +1,29 @@
+
+* {
+    font-family: sans-serif
+}
+h1 {
+    background:url("../images/apple-pie.jpg") center no-repeat;
+    color: white
+}
+
+.flex-container {
+    margin: 20px 0 50px;
+    list-style: none;
+    display: flex;
+    padding: 0;
+  }
+  
+  .flex-item {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    line-height: 100px;
+    color: grey;
+    text-align: center;
+  }
+
+.justify-content-center {
+    justify-content: center;
+  }
+
